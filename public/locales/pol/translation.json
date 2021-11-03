@@ -1,0 +1,29 @@
+{
+  "title": "Witamy w Konfiguratorze skarpet",
+  "general": {
+    "addToCart": "Dodaj do koszyka",
+    "uploadTemplate": "Prześlij szablon"
+  },
+  "submit_form": {
+    "title": "Dodaj do koszyka",
+    "submit": "Wysłać",
+    "cancel": "Anuluj",
+    "name": "Nazwa",
+    "invalid_name": "Wpisz swoje imię i nazwisko!",
+    "email": "E-mail",
+    "invalid_email": "Wprowadź swój adres e-mail!",
+    "phone_number": "Numer telefonu",
+    "invalid_phone_number": "Wprowadź swój numer telefonu!"
+  },
+  "template_form": {
+    "title": "Prześlij nowy szablon",
+    "submit": "Zastosować",
+    "cancel": "Anuluj",
+    "upload": "Przekazać plik"
+  },
+  "socksSize": {
+    "Crew": "Załoga",
+    "Quarter": "Czwarta",
+    "No-show": "Brak-pokazu"
+  }
+}

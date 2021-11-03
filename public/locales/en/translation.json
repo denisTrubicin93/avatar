@@ -1,0 +1,29 @@
+{
+    "title": "Welcome to Socks Configurator",
+    "general": {
+        "addToCart": "Add To Cart",
+        "uploadTemplate": "Upload Template"
+    },
+    "submit_form": {
+        "title": "Add To Cart",
+        "submit": "Send",
+        "cancel": "Cancel",
+        "name": "Name",
+        "invalid_name": "Please input your Name!",
+        "email": "Email",
+        "invalid_email": "Please input your Email!",
+        "phone_number": "Phone Number",
+        "invalid_phone_number": "Please input your Phone Number!!"
+    },
+    "template_form": {
+        "title": "Upload New Template",
+        "submit": "Apply",
+        "cancel": "Cancel",
+        "upload": "Upload"
+    },
+    "socksSize": {
+        "Crew": "Crew",
+        "Quarter": "Quarter",
+        "No-show": "No-show"
+    }
+}

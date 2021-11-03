@@ -1,0 +1,29 @@
+{
+  "title": "Witamy w Konfiguratorze skarpet",
+  "general": {
+    "addToCart": "in Warenkorb legen",
+    "uploadTemplate": "Vorlage hochladen"
+  },
+  "submit_form": {
+    "title": "in Warenkorb legen",
+    "submit": "Senden",
+    "cancel": "Stornieren",
+    "name": "Name",
+    "invalid_name": "Bitte geben Sie Ihren Namen ein!",
+    "email": "Email",
+    "invalid_email": "Bitte geben Sie Ihre E-Mail-Adresse ein!",
+    "phone_number": "Telefonnummer",
+    "invalid_phone_number": "Bitte geben Sie Ihre Telefonnummer ein!"
+  },
+  "template_form": {
+    "title": "Neue Vorlage hochladen",
+    "submit": "Anwenden",
+    "cancel": "Stornieren",
+    "upload": "Hochladen"
+  },
+  "socksSize": {
+    "Crew": "Besatzung",
+    "Quarter": "Quartal",
+    "No-show": "keine-zeigen"
+  }
+}

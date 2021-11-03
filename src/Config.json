@@ -1,0 +1,940 @@
+{
+
+    "Categories": {
+        "accessories": {
+            "101514": {
+                "id": "101514",
+                "name": "Baloon",
+                "price": 1000
+            },
+            "101504": {
+                "id": "101504",
+                "name": "Beanie",
+                "price": 3000
+            },
+            "101505": {
+                "id": "101505",
+                "name": "Beret",
+                "price": 200
+            },
+            "101511": {
+                "id": "101511",
+                "name": "bunny Ear",
+                "price": 10000
+            },
+            "101500": {
+                "id": "101500",
+                "name": "Cap",
+                "price": 200
+            },
+            "101501": {
+                "id": "101501",
+                "name": "Earring",
+                "price": 500
+            },
+            "101510": {
+                "id": "101510",
+                "name": "Headphone",
+                "price": 5000
+            },
+            "101512": {
+                "id": "101512",
+                "name": "reindeer Horns",
+                "price": 18000
+            },
+            "101506": {
+                "id": "101506",
+                "name": "Helmet",
+                "price": 500
+            },
+            "101508": {
+                "id": "101508",
+                "name": "mortar Board",
+                "price": 2000
+            },
+            "101502": {
+                "id": "101502",
+                "name": "Neklace",
+                "price": 1000
+            },
+            "101507": {
+                "id": "101507",
+                "name": "straw Hat",
+                "price": 1000
+            },
+            "101509": {
+                "id": "101509",
+                "name": "Tears",
+                "price": 3000
+            },
+            "101513": {
+                "id": "101513",
+                "name": "Poop",
+                "price": 25000
+            },
+            "101517": {
+                "id": "101517",
+                "name": "Chef Hat",
+                "price": 35000
+            },
+            "101516": {
+                "id": "101516",
+                "name": "Halloween Hat",
+                "price": 35000
+            },
+            "101515": {
+                "id": "101515",
+                "name": "Santa",
+                "price": 35000
+            }
+        },
+        "beard": {
+            "100500": {
+                "id": "100500",
+                "name": "Full",
+                "price": 200
+            },
+            "100501": {
+                "id": "100501",
+                "name": "Goatee",
+                "price": 500
+            },
+            "100502": {
+                "id": "100502",
+                "name": "Mutton Chops",
+                "price": 1000
+            },
+            "100504": {
+                "id": "100504",
+                "name": "stubble",
+                "price": 3000
+            },
+            "100503": {
+                "id": "100503",
+                "name": "verdi",
+                "price": 2000
+            },
+            "100506": {
+                "id": "100506",
+                "name": "Chrisitan Brown",
+                "price": 1000
+            },
+            "100507": {
+                "id": "100507",
+                "name": "Grey Yamada",
+                "price": 1000
+            },
+            "100505": {
+                "id": "100505",
+                "name": "Santa Beard",
+                "price": 18000
+            }
+        },
+        "hairclip":{
+            "101400": {
+                "id": "101400",
+                "name": "star Clip",
+                "price": 200
+            },
+            "101402": {
+                "id": "101402",
+                "name": "Cat Head",
+                "price": 1000
+            },
+            "101404": {
+                "id": "101404",
+                "name": "Diamond",
+                "price": 3000
+            },
+            "101401": {
+                "id": "101401",
+                "name": "Durian",
+                "price": 500
+            },
+            "101406": {
+                "id": "101406",
+                "name": "Hairband Heart",
+                "price": 35000
+            },
+            "101405": {
+                "id": "101405",
+                "name": "Hairband Pink",
+                "price": 35000
+            },
+            "101403": {
+                "id": "101403",
+                "name": "Pearl",
+                "price": 2000
+            }
+        },
+        "clothes_top": {
+            "101200": {
+                "id": "101200",
+                "name": "Shirt",
+                "price": 200
+            },
+            "101202": {
+                "id": "101202",
+                "name": "Sweater",
+                "price": 200
+            },
+            "101203": {
+                "id": "101203",
+                "name": "turtle Neck",
+                "price": 500
+            },
+            "101207": {
+                "id": "101207",
+                "name": "Tank Top",
+                "price": 5000
+            },
+            "101208": {
+                "id": "101208",
+                "name": "Hoodie",
+                "price": 10000
+            },
+            "101204": {
+                "id": "101204",
+                "name": "Leather_jacket",
+                "price": 1000
+            },
+            "101209": {
+                "id": "101209",
+                "name": "Psychedlic Shirt",
+                "price": 25000
+            },
+            "101201": {
+                "id": "101201",
+                "name": "Shirt Blue",
+                "price": 200
+            },
+            "101206": {
+                "id": "101206",
+                "name": "Shirt Camo",
+                "price": 3000
+            },
+            "101205": {
+                "id": "101205",
+                "name": "Striped Shirt",
+                "price": 2000
+            }
+        },
+        "clothes_bottom":{
+            "101300": {
+                "id": "101300",
+                "name": "Bottom black",
+                "price": 200
+            },
+            "101301": {
+                "id": "101301",
+                "name": "Pyjama",
+                "price": 18000
+            },
+            "101303": {
+                "id": "101303",
+                "name": "Army Pants",
+                "price": 1000
+            },
+            "101305": {
+                "id": "101305",
+                "name": "Beach Pants",
+                "price": 18000
+            },
+            "101304": {
+                "id": "101304",
+                "name": "Jeans",
+                "price": 2000
+            },
+            "101308": {
+                "id": "101308",
+                "name": "Linen Khaki",
+                "price": 5000
+            },
+            "101307": {
+                "id": "101307",
+                "name": "Pampers",
+                "price": 35000
+            },
+            "101302": {
+                "id": "101302",
+                "name": "Skirt",
+                "price": 500
+            },
+            "101306": {
+                "id": "101306",
+                "name": "Underwear",
+                "price": 35000
+            }
+        },
+        "clothes_full":{
+            "101100": {
+                "id": "101100",
+                "name": "Suit",
+                "price": 200
+            },
+            "101110": {
+                "id": "101110",
+                "name": "Blue White",
+                "price": 35000
+            },
+            "101106": {
+                "id": "101106",
+                "name": "Bruce Lee",
+                "price": 35000
+            },
+            "101109": {
+                "id": "101109",
+                "name": "Cheongsam",
+                "price": 35000
+            },
+            "101103": {
+                "id": "101103",
+                "name": "Clown",
+                "price": 3000
+            },
+            "101111": {
+                "id": "101111",
+                "name": "Jennifer",
+                "price": 35000
+            },
+            "101107": {
+                "id": "101107",
+                "name": "Samurai",
+                "price": 35000
+            },
+            "101104": {
+                "id": "101104",
+                "name": "Santa",
+                "price": 35000
+            },
+            "101102": {
+                "id": "101102",
+                "name": "Suit Blue Tie",
+                "price": 200
+            },
+            "101101": {
+                "id": "101101",
+                "name": "Suit No Tie",
+                "price": 200
+            },
+            "101503": {
+                "id": "101503",
+                "name": "Apron",
+                "price": 2000
+            },
+            "101108": {
+                "id": "101108",
+                "name": "Tightsuit",
+                "price": 35000
+            },
+            "101105": {
+                "id": "101105",
+                "name": "Wedding",
+                "price": 35000
+            }
+        },
+        "eye": {
+            "100208": {
+                "id": "100208",
+                "name": "Anime",
+                "price": 2000
+            },
+            "100201": {
+                "id": "100201",
+                "name": "Cross",
+                "price": 200
+            },
+            "100202": {
+                "id": "100202",
+                "name": "dot Big",
+                "price": 200
+            },
+            "100203": {
+                "id": "100203",
+                "name": "dot Bigger",
+                "price": 200
+            },
+            "100206": {
+                "id": "100206",
+                "name": "Love",
+                "price": 1000
+            },
+            "100205": {
+                "id": "100205",
+                "name": "thick Line",
+                "price": 200
+            },
+            "100204": {
+                "id": "100204",
+                "name": "thin Line",
+                "price": 200
+            },
+            "ceo": {
+                "id": "ceo",
+                "name": "Ceo",
+                "price": 200
+            },
+            "100210": {
+                "id": "100210",
+                "name": "Panda Eye",
+                "price": 10000
+            },
+            "100200": {
+                "id": "100200",
+                "name": "Dot",
+                "price": 200
+            },
+            "100212": {
+                "id": "100212",
+                "name": "Line Corey",
+                "price": 3000
+            },
+            "100211": {
+                "id": "100211",
+                "name": "Line Fujita",
+                "price": 35000
+            },
+            "100209": {
+                "id": "100209",
+                "name": "Line Futami",
+                "price": 3000
+            },
+            "100213": {
+                "id": "100213",
+                "name": "Line Jennifer",
+                "price": 3000
+            },
+            "100207": {
+                "id": "100207",
+                "name": "Line Yamada",
+                "price": 1000
+            }
+        },
+        "hair": {
+            "100113": {
+                "id": "100113",
+                "name": "Balding",
+                "price": 2000
+            },
+            "100115": {
+                "id": "100115",
+                "name": "Bun",
+                "price": 3000
+            },
+            "100104": {
+                "id": "100104",
+                "name": "Long",
+                "price": 500
+            },
+            "100105": {
+                "id": "100105",
+                "name": "Long Curl",
+                "price": 500
+            },
+            "100110": {
+                "id": "100110",
+                "name": "Mohawk",
+                "price": 1000
+            },
+            "100101": {
+                "id": "100101",
+                "name": "Short",
+                "price": 200
+            },
+            "100103": {
+                "id": "100103",
+                "name": "Short Curl",
+                "price": 200
+            },
+            "ceoHair": {
+                "id": "ceoHair",
+                "name": "Ceo Hair",
+                "price": 200
+            },
+            "100124": {
+                "id": "100124",
+                "name": "Black Corey",
+                "price": 3000
+            },
+            "100123": {
+                "id": "100123",
+                "name": "Black Kenji",
+                "price": 3000
+            },
+            "100125": {
+                "id": "100125",
+                "name": "Black Medusa",
+                "price": 35000
+            },
+            "100109": {
+                "id": "100109",
+                "name": "Brown Christian",
+                "price": 500
+            },
+            "100118": {
+                "id": "100118",
+                "name": "Chignon",
+                "price": 18000
+            },
+            "100108": {
+                "id": "100108",
+                "name": "Chonmage",
+                "price": 3000
+            },
+            "100120": {
+                "id": "100120",
+                "name": "Dreadlocks",
+                "price": 35000
+            },
+            "100119": {
+                "id": "100119",
+                "name": "Fujita",
+                "price": 35000
+            },
+            "100111": {
+                "id": "100111",
+                "name": "Grey Yamada",
+                "price": 1000
+            },
+            "100121": {
+                "id": "100121",
+                "name": "Long Fringe",
+                "price": 500
+            },
+            "100114": {
+                "id": "100114",
+                "name": "Pigtails",
+                "price": 2000
+            },
+            "100116": {
+                "id": "100116",
+                "name": "Plaits",
+                "price": 3000
+            },
+            "100112": {
+                "id": "100112",
+                "name": "Ringlet",
+                "price": 1000
+            },
+            "100117": {
+                "id": "100117",
+                "name": "Round Bob",
+                "price": 10000
+            },
+            "100106": {
+                "id": "100106",
+                "name": "Short Curl No Side",
+                "price": 200
+            },
+            "100122": {
+                "id": "100122",
+                "name": "Short Fringe",
+                "price": 200
+            }
+        },
+        "hand": {
+            "100606": {
+                "id": "100606",
+                "name": "Book",
+                "price": 5000
+            },
+            "100607": {
+                "id": "100607",
+                "name": "Bracelet",
+                "price": 5000
+            },
+            "100600": {
+                "id": "100600",
+                "name": "Gloves",
+                "price": 200
+            },
+            "100601": {
+                "id": "100601",
+                "name": "Handbag",
+                "price": 500
+            },
+            "100602": {
+                "id": "100602",
+                "name": "Ipad",
+                "price": 1000
+            },
+            "100605": {
+                "id": "100605",
+                "name": "Iphone",
+                "price": 3000
+            },
+            "100603": {
+                "id": "100603",
+                "name": "Rubber Duck",
+                "price": 2000
+            },
+            "100604": {
+                "id": "100604",
+                "name": "Watch",
+                "price": 2000
+            },
+            "100608": {
+                "id": "100608",
+                "name": "Umaibo",
+                "price": 25000
+            }
+        },
+        "leg":{
+            "100701": {
+                "id": "100701",
+                "name": "Boots",
+                "price": 500
+            },
+            "100700": {
+                "id": "100700",
+                "name": "Shoes",
+                "price": 200
+            },
+            "100702": {
+                "id": "100702",
+                "name": "Slippers",
+                "price": 1000
+            },
+            "100703": {
+                "id": "100703",
+                "name": "Beach Sandal",
+                "price": 2000
+            },
+            "100704": {
+                "id": "100704",
+                "name": "Crocs",
+                "price": 3000
+            },
+            "100708": {
+                "id": "100708",
+                "name": "Fluffy Boots",
+                "price": 35000
+            },
+            "100710": {
+                "id": "100710",
+                "name": "Geta",
+                "price": 5000
+            },
+            "100709": {
+                "id": "100709",
+                "name": "Rocket Shoes",
+                "price": 35000
+            },
+            "100706": {
+                "id": "100706",
+                "name": "Rollerblade",
+                "price": 10000
+            },
+            "100707": {
+                "id": "100707",
+                "name": "Scuba",
+                "price": 18000
+            }
+        },
+        "mouth": {
+            "100301": {
+                "id": "100301",
+                "name": "Neutral",
+                "price": 200
+            },
+            "100302": {
+                "id": "100302",
+                "name": "Sad",
+                "price": 500
+            },
+            "100300": {
+                "id": "100300",
+                "name": "Smile",
+                "price": 200
+            },
+            "100303": {
+                "id": "100303",
+                "name": "Surpise",
+                "price": 1000
+            },
+            "100308": {
+                "id": "100308",
+                "name": "cute Cat",
+                "price": 18000
+            },
+            "100305": {
+                "id": "100305",
+                "name": "Lipstick",
+                "price": 3000
+            },
+            "100307": {
+                "id": "100307",
+                "name": "Morty",
+                "price": 10000
+            },
+            "100306": {
+                "id": "100306",
+                "name": "TongueOut",
+                "price": 5000
+            },
+            "100304": {
+                "id": "100304",
+                "name": "VampireTooth",
+                "price": 2000
+            },
+            "100311": {
+                "id": "100311",
+                "name": "Neutral Pink",
+                "price": 200
+            },
+            "100309": {
+                "id": "100309",
+                "name": "Pacifiers",
+                "price": 35000
+            },
+            "100315": {
+                "id": "100315",
+                "name": "Thick Lips",
+                "price": 1000
+            }
+        },
+        "spectacies": {
+            "100908": {
+                "id": "100908",
+                "name": "Monocle",
+                "price": 18000
+            },
+            "100905": {
+                "id": "100905",
+                "name": "Oval",
+                "price": 3000
+            },
+            "100904": {
+                "id": "100904",
+                "name": "Rectangle",
+                "price": 200
+            },
+            "100900": {
+                "id": "100900",
+                "name": "Round",
+                "price": 200
+            },
+            "100901": {
+                "id": "100901",
+                "name": "round Small",
+                "price": 200
+            },
+            "100907": {
+                "id": "100907",
+                "name": "smart Glass",
+                "price": 25000
+            },
+            "100903": {
+                "id": "100903",
+                "name": "Square",
+                "price": 2000
+            },
+            "100902": {
+                "id": "100902",
+                "name": "Star",
+                "price": 500
+            },
+            "100906": {
+                "id": "100906",
+                "name": "Vr Google",
+                "price": 5000
+            },
+            "100910": {
+                "id": "100910",
+                "name": "Frameless kenji",
+                "price": 1000
+            },
+            "100909": {
+                "id": "100909",
+                "name": "Square Christian",
+                "price": 1000
+            }
+        },
+        "wrinkles": {
+            "100402": {
+                "id": "100402",
+                "name": "Angry Mark",
+                "price": 1000
+            },
+            "100403": {
+                "id": "100403",
+                "name": "Blushing",
+                "price": 2000
+            },
+            "100400": {
+                "id": "100400",
+                "name": "Cheek",
+                "price": 200
+            },
+            "100401": {
+                "id": "100401",
+                "name": "Forehead Marks",
+                "price": 500
+            },
+            "100404": {
+                "id": "100404",
+                "name": "Star Tattoo",
+                "price": 10000
+            }
+        },
+        "mask": {
+            "101000": {
+                "id": "101000",
+                "name": "Mask Jason",
+                "price": 25000
+            }
+        },
+        "pet": {
+            "20010201": {
+                "id": "20010201",
+                "name": "Cat",
+                "price": 500,
+                "opt":{
+                    "scale":20,
+                    "x": 7.5,
+                    "y": -2.5
+                }
+            },
+            "20010101": {
+                "id": "20010101",
+                "name": "Dog",
+                "price": 1000,
+                "opt":{
+                    "scale":20,
+                    "x": 7.5,
+                    "y": -2.5
+                }
+            },
+            "20010701": {
+                "id": "20010701",
+                "name": "Duck",
+                "price": 5000,
+                "opt":{
+                    "scale":15,
+                    "x": 7.5,
+                    "y": -2.5
+                }
+            },
+            "20010301": {
+                "id": "20010301",
+                "name": "Fish",
+                "price": 2000,
+                "opt":{
+                    "scale":15,
+                    "x": 7.5,
+                    "y": 0
+                }
+            },
+            "20010001": {
+                "id": "20010001",
+                "name": "Gorilla",
+                "price": 200,
+                "opt":{
+                    "scale":10,
+                    "x": 7.5,
+                    "y": -2.5
+                }
+            },
+      
+            "20010901": {
+                "id": "20010901",
+                "name": "Big Egg",
+                "price": 18000,
+                "opt":{
+                    "scale":20,
+                    "x": 8.5,
+                    "y": 1
+                }
+            },
+            "20010801": {
+                "id": "20010801",
+                "name": "Camel",
+                "price": 35000,
+                "opt":{
+                    "scale":15,
+                    "x": 22,
+                    "y": 1
+                }
+            },
+            "20010401": {
+                "id": "20010401",
+                "name": "Chicken",
+                "price": 2000,
+                "opt":{
+                    "scale":25,
+                    "x": 27,
+                    "y": 3
+                }
+            },
+            "200113": {
+                "id": "200113",
+                "name": "Dino Egg",
+                "price": 25000,
+                "opt":{
+                    "scale":15,
+                    "x": 9,
+                    "y": -1
+                }
+            },
+            "20010501": {
+                "id": "20010501",
+                "name": "Pig",
+                "price": 18000,
+                "opt":{
+                    "scale":25,
+                    "x": 28,
+                    "y": 4
+                }
+            },
+            "20010601": {
+                "id": "20010601",
+                "name": "Trex",
+                "price": 35000,
+                "opt":{
+                    "scale":25,
+                    "x": 28,
+                    "y": 5
+                }
+            }
+
+        }
+    },
+    "Colors": {
+        "black": {
+            "id": "black",
+            "name": "black",
+            "hex": "#000000",
+            "price": 300
+        },
+        "blue": {
+            "id": "blue",
+            "name": "blue",
+            "hex": "#4C73D1",
+            "price": 300
+        },
+        "red": {
+            "id": "red",
+            "name": "red",
+            "hex": "#D1534C",
+            "price": 300
+        },
+        "green": {
+            "id": "green",
+            "name": "green",
+            "hex": "#5CD14C",
+            "price": 300
+        },
+        "yellow": {
+            "id": "yellow",
+            "name": "yellow",
+            "hex": "#D1CC4C",
+            "price": 300
+        },
+        "turquoise": {
+            "id": "turquoise",
+            "name": "turquoise",
+            "hex": "#4CD1B5",
+            "price": 300
+        }
+    }
+}
